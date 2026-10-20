@@ -1,2 +1,2 @@
-# school-game
-a game about, you guessed it, SCHOOL!
+# skool
+a game about, you guessed it, Skool!
